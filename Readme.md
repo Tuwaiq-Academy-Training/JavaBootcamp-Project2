@@ -1,5 +1,5 @@
 # Project2
 
-![‏‏لقطة الشاشة (68)](https://user-images.githubusercontent.com/52765342/213460388-f26a57a0-5516-44d7-b4f5-a972b0e500b5.png)
+![‏‏لقطة الشاشة (69)](https://user-images.githubusercontent.com/52765342/213472533-0fa7dfcd-9ae7-4dcf-b9d7-c3d9d7a2093e.png)
 
 - Add one method at least
